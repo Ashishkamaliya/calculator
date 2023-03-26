@@ -1,0 +1,8 @@
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.exe
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.pdb
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Form1.resources
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource.Cache
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.exe
+c:\users\ashish\onedrive\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.pdb
+C:\Users\Ashish\OneDrive\Documents\Visual Studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.csprojResolveAssemblyReference.cache
